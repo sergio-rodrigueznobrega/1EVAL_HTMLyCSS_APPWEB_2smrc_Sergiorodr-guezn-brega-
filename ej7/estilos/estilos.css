@@ -1,0 +1,22 @@
+/*Selector universal*/
+*{
+
+    background-color: deeppink;
+}
+/*selector de etiqueta*/
+
+h1{
+    background-color: gold;
+}
+/*selector de clase*/
+p.fondoazul{
+    background-color: peru;
+}
+
+/*selector de id*/
+p#par{
+    background-color: rebeccapurple;
+}
+p#mal{
+    background-color: springgreen;
+}
