@@ -1,0 +1,10 @@
+img.img1{
+    height: 50zpx;
+    width: 600px;
+}
+p{
+    text-indent: 20px;
+    word-spacing: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
